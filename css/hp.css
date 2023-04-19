@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family: lato;
+}
+#set {
+	max-width: 1.5rem;
+}
+.dropdown {
+	display: inline-block;
+	position: relative;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit; 
+  margin: 0; 
+}
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+body {
+	font: lato;
+}
+.fc{
+	
+}
+button {
+	background-color: #06F738;
+}
+.ftr{
+	font: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 9pt;
+}
